@@ -104,7 +104,7 @@ int main(void)
 
 ## 作成者
 
-miyazawa.kai.0823
+kmiyazaw
 
 ## 更新履歴
 
